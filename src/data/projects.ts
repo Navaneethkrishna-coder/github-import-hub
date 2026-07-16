@@ -26,6 +26,39 @@ export interface Service {
 
 export const projects: Project[] = [
   {
+    id: 11,
+    title: "Amend Dental Clinic",
+    category: "commercial",
+    location: "Kozhikode, Kerala",
+    year: 2025,
+    description:
+      "Complete healthcare interior fit-out for Amend Dental Clinic — a modern, hygienic, and patient-friendly clinical environment combining functionality with a welcoming aesthetic for both patients and healthcare professionals.",
+    coverImage: "/images/projects/amend-dental.jpeg",
+    gallery: ["/images/projects/amend-dental.jpeg"],
+  },
+  {
+    id: 12,
+    title: "Mother Opticals Showroom – Vengara",
+    category: "showrooms",
+    location: "Vengara, Malappuram, Kerala",
+    year: 2023,
+    description:
+      "Complete interior fit-out for the Mother Opticals Showroom in Vengara — a modern retail space combining elegant aesthetics with practical functionality, enhancing product visibility while offering a comfortable shopping experience.",
+    coverImage: "/images/projects/mother-opticals-vengara.jpeg",
+    gallery: ["/images/projects/mother-opticals-vengara.jpeg"],
+  },
+  {
+    id: 13,
+    title: "Alison Gold & Diamonds",
+    category: "showrooms",
+    location: "Wandoor, Malappuram, Kerala",
+    year: 2022,
+    description:
+      "Complete interior fit-out for Alison Gold & Diamonds in Wandoor — a luxurious and elegant jewellery showroom delivering a premium retail environment that enhances product presentation and creates a memorable customer experience.",
+    coverImage: "/images/projects/alison-gold.jpeg",
+    gallery: ["/images/projects/alison-gold.jpeg"],
+  },
+  {
     id: 7,
     title: "Mother Opticals Showroom",
     category: "showrooms",
@@ -79,15 +112,15 @@ export const projects: Project[] = [
 ];
 
 export const galleryImages: GalleryImage[] = [
-  { id: 1, src: "/images/projects/showroom-4.jpg", alt: "Mother Opticals showroom" },
-  { id: 2, src: "/images/projects/showroom-5.jpeg", alt: "AP Gold showroom" },
-  { id: 3, src: "/images/projects/showroom-6.jpeg", alt: "AP Gold showroom detail" },
-  { id: 4, src: "/images/projects/showroom-7.jpeg", alt: "AP Gold showroom interior" },
-  { id: 5, src: "/images/projects/showroom-8.png", alt: "Mother Opticals Thrissur" },
-  { id: 6, src: "/images/projects/showroom-9.png", alt: "Mother Dental Academy" },
-  { id: 7, src: "/images/projects/showroom-10.png", alt: "Premium showroom interior" },
-  { id: 8, src: "/images/about.jpg", alt: "Interior design craftsmanship" },
-  { id: 9, src: "/images/hero-bg.jpg", alt: "Premium living room" },
+  { id: 1, src: "/images/projects/amend-dental.jpeg", alt: "Amend Dental Clinic interior" },
+  { id: 2, src: "/images/projects/mother-opticals-vengara.jpeg", alt: "Mother Opticals Vengara showroom" },
+  { id: 3, src: "/images/projects/alison-gold.jpeg", alt: "Alison Gold & Diamonds showroom" },
+  { id: 4, src: "/images/projects/showroom-4.jpg", alt: "Mother Opticals Kozhikode showroom" },
+  { id: 5, src: "/images/projects/showroom-5.jpeg", alt: "AP Gold showroom" },
+  { id: 6, src: "/images/projects/showroom-6.jpeg", alt: "AP Gold showroom detail" },
+  { id: 7, src: "/images/projects/showroom-7.jpeg", alt: "AP Gold showroom interior" },
+  { id: 8, src: "/images/projects/showroom-8.png", alt: "Mother Opticals Thrissur" },
+  { id: 9, src: "/images/projects/showroom-9.png", alt: "Mother Dental Academy" },
 ];
 
 export const services: Service[] = [
