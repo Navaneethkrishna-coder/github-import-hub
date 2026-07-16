@@ -109,6 +109,28 @@ export const projects: Project[] = [
     coverImage: "/images/projects/showroom-9.png",
     gallery: ["/images/projects/showroom-9.png"],
   },
+  {
+    id: 14,
+    title: "Dubai Gold Showroom – Perinthalmanna",
+    category: "showrooms",
+    location: "Perinthalmanna, Malappuram, Kerala",
+    year: 2021,
+    description:
+      "Complete interior fit-out for the Dubai Gold Showroom in Perinthalmanna — a premium retail space reflecting elegance, luxury, and functionality, designed to enhance the display of fine jewellery while providing a welcoming shopping experience.",
+    coverImage: "/images/projects/dubai-gold.jpeg",
+    gallery: ["/images/projects/dubai-gold.jpeg"],
+  },
+  {
+    id: 15,
+    title: "Mother Dental Clinic – Kottakkal",
+    category: "commercial",
+    location: "Kottakkal, Malappuram, Kerala",
+    year: 2025,
+    description:
+      "Complete healthcare interior fit-out for Mother Dental Clinic in Kottakkal — a modern, hygienic, and patient-friendly environment combining functionality with contemporary aesthetics for a comfortable patient experience and an efficient workspace for dental professionals.",
+    coverImage: "/images/projects/mother-dental-kottakkal.png",
+    gallery: ["/images/projects/mother-dental-kottakkal.png"],
+  },
 ];
 
 export const galleryImages: GalleryImage[] = [
