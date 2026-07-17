@@ -20,10 +20,10 @@ export const Route = createFileRoute("/")({
         content:
           "Vinodhen N G Interiors — Premium interior design and contracting for homes and commercial spaces. Showrooms, bedrooms, wardrobes, false ceilings, reception counters, and custom cabinets.",
       },
-      { property: "og:title", content: "Vinodhen N G Interiors | Premium Interior Design" },
+      { property: "og:title", content: "Vinodhen N G Interiors | Premium Interior Design & Contracting" },
       {
         property: "og:description",
-        content: "Crafting beautiful interior spaces for homes and commercial properties.",
+        content: "Vinodhen N G Interiors — Premium interior design and contracting for homes and commercial spaces. Showrooms, bedrooms, wardrobes, false ceilings, reception counters, and custom cabinets.",
       },
       { property: "og:type", content: "website" },
       { property: "og:image", content: "https://id-preview--1b3b4109-e6c0-47d9-aa77-11a3fddd9931.lovable.app/images/hero-bg.jpg" },

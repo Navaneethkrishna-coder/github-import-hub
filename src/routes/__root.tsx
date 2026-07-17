@@ -80,11 +80,15 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { title: "Vinodhen N G Interiors | Premium Interior Design & Contracting" },
       { name: "description", content: "Vinodhen N G Interiors — Premium interior design and contracting for homes and commercial spaces. Showrooms, bedrooms, wardrobes, false ceilings, reception counters, and custom cabinets." },
       { name: "author", content: "Vinodhen N G Interiors" },
-      { property: "og:title", content: "Vinodhen N G Interiors | Premium Interior Design" },
-      { property: "og:description", content: "Crafting beautiful interior spaces for homes and commercial properties." },
+      { property: "og:title", content: "Vinodhen N G Interiors | Premium Interior Design & Contracting" },
+      { property: "og:description", content: "Vinodhen N G Interiors — Premium interior design and contracting for homes and commercial spaces. Showrooms, bedrooms, wardrobes, false ceilings, reception counters, and custom cabinets." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
       { name: "twitter:site", content: "@VinodhenNGInteriors" },
+      { name: "twitter:title", content: "Vinodhen N G Interiors | Premium Interior Design & Contracting" },
+      { name: "twitter:description", content: "Vinodhen N G Interiors — Premium interior design and contracting for homes and commercial spaces. Showrooms, bedrooms, wardrobes, false ceilings, reception counters, and custom cabinets." },
+      { property: "og:image", content: "https://id-preview--1b3b4109-e6c0-47d9-aa77-11a3fddd9931.lovable.app/images/hero-bg.jpg" },
+      { name: "twitter:image", content: "https://id-preview--1b3b4109-e6c0-47d9-aa77-11a3fddd9931.lovable.app/images/hero-bg.jpg" },
     ],
     links: [
       {
