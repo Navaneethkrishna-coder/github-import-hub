@@ -142,7 +142,7 @@ export const galleryImages: GalleryImage[] = [
   { id: 6, src: "/images/projects/showroom-6.jpeg", alt: "AP Gold showroom detail" },
   { id: 7, src: "/images/projects/showroom-7.jpeg", alt: "AP Gold showroom interior" },
   { id: 8, src: "/images/projects/showroom-8.png", alt: "Mother Opticals Thrissur" },
-  { id: 9, src: "/images/projects/showroom-9.png", alt: "Mother Dental Academy" },
+  { id: 9, src: "/images/projects/mother-dental-academy.jpeg", alt: "Mother Dental Academy" },
 ];
 
 export const services: Service[] = [
