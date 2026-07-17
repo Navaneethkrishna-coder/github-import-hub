@@ -106,8 +106,8 @@ export const projects: Project[] = [
     year: 2026,
     description:
       "Successfully designed and executed the complete interior fit-out for Mother Dental Academy in Kozhikode, creating a modern and professional learning environment for dental education and training.",
-    coverImage: "/images/projects/showroom-9.png",
-    gallery: ["/images/projects/showroom-9.png"],
+    coverImage: "/images/projects/mother-dental-academy.jpeg",
+    gallery: ["/images/projects/mother-dental-academy.jpeg"],
   },
   {
     id: 14,
@@ -142,7 +142,7 @@ export const galleryImages: GalleryImage[] = [
   { id: 6, src: "/images/projects/showroom-6.jpeg", alt: "AP Gold showroom detail" },
   { id: 7, src: "/images/projects/showroom-7.jpeg", alt: "AP Gold showroom interior" },
   { id: 8, src: "/images/projects/showroom-8.png", alt: "Mother Opticals Thrissur" },
-  { id: 9, src: "/images/projects/showroom-9.png", alt: "Mother Dental Academy" },
+  { id: 9, src: "/images/projects/mother-dental-academy.jpeg", alt: "Mother Dental Academy" },
 ];
 
 export const services: Service[] = [
