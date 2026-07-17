@@ -143,6 +143,16 @@ export const galleryImages: GalleryImage[] = [
   { id: 7, src: "/images/projects/showroom-7.jpeg", alt: "AP Gold showroom interior" },
   { id: 8, src: "/images/projects/showroom-8.png", alt: "Mother Opticals Thrissur" },
   { id: 9, src: "/images/projects/mother-dental-academy.jpeg", alt: "Mother Dental Academy" },
+  { id: 10, src: "/images/gallery/amend-1.jpeg", alt: "Amend Dental Clinic reception signage and ceiling detail" },
+  { id: 11, src: "/images/gallery/amend-2.jpeg", alt: "Amend Dental Clinic waiting lounge with arched doors" },
+  { id: 12, src: "/images/gallery/opticals-showcase-1.jpeg", alt: "Mother Opticals product display columns" },
+  { id: 13, src: "/images/gallery/opticals-interior-1.jpeg", alt: "Mother Opticals showroom interior with seating" },
+  { id: 14, src: "/images/gallery/opticals-interior-2.jpeg", alt: "Mother Opticals showroom eyewear wall" },
+  { id: 15, src: "/images/gallery/opticals-reception.jpeg", alt: "Mother Opticals reception and eye clinic entrance" },
+  { id: 16, src: "/images/gallery/jewellery-sterling.jpeg", alt: "Sterling silver jewellery display" },
+  { id: 17, src: "/images/gallery/jewellery-glitz.jpeg", alt: "Glitz jewellery showroom display wall" },
+  { id: 18, src: "/images/gallery/reception-wood.jpeg", alt: "Modern reception counter with wood panelling" },
+  { id: 19, src: "/images/gallery/gold-staircase.png", alt: "Gold showroom staircase with wood feature wall" },
 ];
 
 export const services: Service[] = [
